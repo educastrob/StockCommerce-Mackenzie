@@ -23,3 +23,8 @@ app.get('/api/produtos', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Servidor StockCommerce rodando na porta ${PORT}`);
 });
+
+// Rota de criacao de pedidos (UC06 - Iteracao 2)
+app.post('/api/pedidos', (req, res) => {
+    res.status(201).json({ mensagem: "Pedido registrado com sucesso na Iteracao 2" });
+});

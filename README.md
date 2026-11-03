@@ -14,3 +14,7 @@ Projeto desenvolvido para a disciplina de Prática Profissional em ADS - Univers
 ## Links do Projeto
 * **Repositório GitHub:** https://github.com/educastrob/StockCommerce-Mackenzie
 * **Quadro Trello:** https://trello.com/b/rQF1Uuso/stockcommerce
+
+## Status do Desenvolvimento
+* Iteracao 1: Concluida (Tag v1)
+* Iteracao 2: Em andamento (Branch iteracao2)
