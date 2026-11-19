@@ -40,5 +40,5 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone [https://github.com/educastrob/StockCommerce-Mackenzie.git](https://github.com/educastrob/StockCommerce-Mackenzie.git)
+   git clone https://github.com/educastrob/StockCommerce-Mackenzie.git
    cd StockCommerce-Mackenzie
